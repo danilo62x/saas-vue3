@@ -1,0 +1,535 @@
+{
+  "brand": "Nimbus",
+  "common": {
+    "search": "Search",
+    "noResults": "No results found",
+    "previous": "Previous",
+    "next": "Next",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "confirm": "Confirm",
+    "loading": "Loading...",
+    "copy": "Copy",
+    "copied": "Copied!",
+    "download": "Download",
+    "theme": "Theme",
+    "language": "Language",
+    "back": "Back",
+    "viewAll": "View all",
+    "comingSoon": "Coming soon"
+  },
+  "nav": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Sign in",
+    "getStarted": "Start free",
+    "dashboard": "Dashboard"
+  },
+  "marketing": {
+    "hero": {
+      "badge": "New: AI integrations",
+      "title": "The platform that helps your team grow faster",
+      "subtitle": "Manage projects, team and billing in one place. Real-time analytics, automations and integrations to scale without friction.",
+      "ctaPrimary": "Start free",
+      "ctaSecondary": "Watch demo",
+      "noCard": "No credit card • Cancel anytime"
+    },
+    "clients": "Companies that trust Nimbus",
+    "features": {
+      "title": "Everything you need to scale",
+      "subtitle": "Powerful features built for modern teams.",
+      "items": {
+        "analytics": { "title": "Real-time analytics", "desc": "Track MRR, churn and engagement with live dashboards." },
+        "team": { "title": "Team collaboration", "desc": "Invite members, set roles and work together seamlessly." },
+        "automation": { "title": "Automations", "desc": "Build workflows that save your team hours every week." },
+        "security": { "title": "Enterprise security", "desc": "SSO, audit logs and end-to-end encryption." },
+        "api": { "title": "API & integrations", "desc": "Connect your favorite tools with our robust API." },
+        "billing": { "title": "Flexible billing", "desc": "Monthly or yearly plans, invoices and subscription management." }
+      }
+    },
+    "how": {
+      "title": "How it works",
+      "subtitle": "Get started in three simple steps.",
+      "steps": {
+        "s1": { "title": "Create your account", "desc": "Sign up free in under a minute." },
+        "s2": { "title": "Set up your workspace", "desc": "Invite your team and connect your integrations." },
+        "s3": { "title": "Track and scale", "desc": "Use dashboards to grow with confidence." }
+      }
+    },
+    "stats": {
+      "customers": "Active customers",
+      "uptime": "Uptime",
+      "rating": "Average rating",
+      "countries": "Countries"
+    },
+    "testimonialsTitle": "Loved by teams worldwide",
+    "pricingPreview": {
+      "title": "Plans for every stage",
+      "subtitle": "Start free and grow as you need.",
+      "viewFull": "View all plans"
+    },
+    "faqTitle": "Frequently asked questions",
+    "faq": {
+      "q1": "Can I cancel anytime?",
+      "a1": "Yes. You can cancel your subscription whenever you want, with no penalties.",
+      "q2": "Is there a trial period?",
+      "a2": "The Free plan is free forever. Paid plans include a 14-day trial.",
+      "q3": "How does billing work?",
+      "a3": "You're billed monthly or yearly. Yearly comes with a significant discount.",
+      "q4": "Do you offer support?",
+      "a4": "Yes, from community support on Free to a dedicated manager on Enterprise."
+    },
+    "cta": {
+      "title": "Ready to get started?",
+      "subtitle": "Join thousands of teams already growing with Nimbus.",
+      "button": "Create free account"
+    },
+    "footer": {
+      "tagline": "The all-in-one platform for teams that want to grow fast.",
+      "product": "Product",
+      "company": "Company",
+      "resources": "Resources",
+      "legal": "Legal",
+      "features": "Features",
+      "pricing": "Pricing",
+      "integrations": "Integrations",
+      "changelog": "Changelog",
+      "about": "About",
+      "careers": "Careers",
+      "blog": "Blog",
+      "contact": "Contact",
+      "docs": "Documentation",
+      "help": "Help center",
+      "status": "Status",
+      "api": "API reference",
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "security": "Security",
+      "newsletterTitle": "Get the latest",
+      "newsletterDesc": "Product tips and updates, no spam.",
+      "newsletterPlaceholder": "you@email.com",
+      "newsletterCta": "Subscribe",
+      "newsletterSuccess": "Subscription confirmed! Thank you.",
+      "rights": "© 2025 Nimbus. All rights reserved."
+    }
+  },
+  "featuresPage": {
+    "title": "Features that make a difference",
+    "subtitle": "Discover in detail everything Nimbus offers.",
+    "sections": {
+      "analytics": { "title": "Powerful analytics", "desc": "Real-time dashboards with MRR, churn, cohorts and funnels. Export reports and make data-driven decisions.", "points": ["Live metrics", "Custom reports", "Smart alerts"] },
+      "collaboration": { "title": "Collaboration without limits", "desc": "Invite as many members as you need, organize by roles and work in real time with your team.", "points": ["Roles and permissions", "Comments and mentions", "Activity history"] },
+      "automation": { "title": "Smart automation", "desc": "Build workflows that run on their own and free your team for what matters.", "points": ["Triggers and actions", "Ready-made templates", "Webhook integration"] },
+      "security": { "title": "Enterprise-grade security", "desc": "Protect your data with SSO, two-factor authentication and complete audit logs.", "points": ["SSO / SAML", "2FA", "Audit logs"] }
+    }
+  },
+  "pricingPage": {
+    "title": "Simple, transparent pricing",
+    "subtitle": "Choose the ideal plan. Change or cancel anytime.",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "save": "save 20%",
+    "perMonth": "/mo",
+    "billedYearly": "billed yearly",
+    "custom": "Custom",
+    "compareTitle": "Compare plans",
+    "compare": {
+      "projects": "Projects",
+      "members": "Team members",
+      "storage": "Storage",
+      "api": "API calls",
+      "support": "Support",
+      "analytics": "Advanced analytics",
+      "sso": "SSO / SAML",
+      "unlimited": "Unlimited"
+    },
+    "faqTitle": "Billing questions",
+    "faq": {
+      "q1": "Can I change plans later?",
+      "a1": "Yes, upgrade or downgrade anytime — the amount is prorated.",
+      "q2": "What payment methods?",
+      "a2": "We accept major credit cards and, on Enterprise, invoice and bank transfer.",
+      "q3": "What happens if I exceed limits?",
+      "a3": "We notify you in advance and you can upgrade without losing data."
+    }
+  },
+  "plans": {
+    "free": "Free",
+    "pro": "Pro",
+    "business": "Business",
+    "enterprise": "Enterprise",
+    "mostPopular": "Most popular",
+    "current": "Current plan",
+    "choose": "Choose",
+    "contactSales": "Contact sales",
+    "startFree": "Start free",
+    "descriptions": {
+      "free": "To get started and explore.",
+      "pro": "For growing teams.",
+      "business": "For scaling companies.",
+      "enterprise": "For large organizations."
+    },
+    "features": {
+      "projects3": "Up to 3 projects",
+      "projects25": "Up to 25 projects",
+      "unlimitedProjects": "Unlimited projects",
+      "members2": "2 members",
+      "members10": "10 members",
+      "members50": "50 members",
+      "storage1": "1 GB storage",
+      "storage50": "50 GB storage",
+      "storage500": "500 GB storage",
+      "communitySupport": "Community support",
+      "prioritySupport": "Priority support",
+      "basicAnalytics": "Basic analytics",
+      "advancedAnalytics": "Advanced analytics",
+      "apiAccess": "API access",
+      "sso": "SSO / SAML",
+      "auditLog": "Audit logs",
+      "unlimitedEverything": "Everything unlimited",
+      "dedicatedManager": "Dedicated manager",
+      "sla": "Guaranteed SLA",
+      "customIntegrations": "Custom integrations",
+      "onPremise": "On-premise option"
+    }
+  },
+  "about": {
+    "title": "Building the future of work",
+    "subtitle": "We were born to help teams do more with less.",
+    "missionTitle": "Our mission",
+    "mission": "We believe every team deserves powerful, simple tools. That's why we built Nimbus: to remove complexity and give time back to what truly matters.",
+    "valuesTitle": "Our values",
+    "values": {
+      "v1": { "title": "Customer focus", "desc": "Every decision starts with: does this help our customers?" },
+      "v2": { "title": "Transparency", "desc": "Open communication, clear pricing and no fine print." },
+      "v3": { "title": "Excellence", "desc": "We pursue quality in every detail of the product." }
+    },
+    "teamTitle": "Meet the team",
+    "statsTitle": "By the numbers"
+  },
+  "contact": {
+    "title": "Get in touch",
+    "subtitle": "Have questions? Our team replies within 24h.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send message",
+      "sending": "Sending...",
+      "success": "Message sent! We'll get back to you soon.",
+      "errors": {
+        "name": "Enter your name",
+        "email": "Invalid email",
+        "subject": "Enter a subject",
+        "message": "Message too short"
+      }
+    },
+    "info": {
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address",
+      "addressValue": "Av. Paulista, 1000 — São Paulo, SP"
+    }
+  },
+  "auth": {
+    "loginTitle": "Welcome back",
+    "loginSubtitle": "Sign in to access your dashboard.",
+    "registerTitle": "Create your account",
+    "registerSubtitle": "Start free in seconds.",
+    "forgotTitle": "Reset password",
+    "forgotSubtitle": "We'll send a reset link to your email.",
+    "name": "Full name",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "company": "Company",
+    "remember": "Remember me",
+    "forgot": "Forgot password?",
+    "loginCta": "Sign in",
+    "registerCta": "Create account",
+    "forgotCta": "Send link",
+    "loggingIn": "Signing in...",
+    "registering": "Creating...",
+    "sending": "Sending...",
+    "loginSuccess": "Signed in successfully!",
+    "registerSuccess": "Account created! Let's set up your workspace.",
+    "forgotSuccess": "Link sent! Check your email.",
+    "loginError": "Invalid credentials. Please try again.",
+    "noAccount": "No account?",
+    "hasAccount": "Already have an account?",
+    "backToLogin": "Back to login",
+    "demoTitle": "Demo account",
+    "demoHint": "Any email/password works.",
+    "agree": "I agree to the Terms and Privacy Policy",
+    "errors": {
+      "name": "Enter your name",
+      "email": "Invalid email",
+      "password": "Minimum 6 characters",
+      "confirm": "Passwords don't match",
+      "agree": "You must accept the terms"
+    }
+  },
+  "appNav": {
+    "main": "Main",
+    "workspace": "Workspace",
+    "account": "Account",
+    "dashboard": "Dashboard",
+    "projects": "Projects",
+    "team": "Team",
+    "billing": "Billing",
+    "settings": "Settings",
+    "logout": "Sign out",
+    "searchPlaceholder": "Search or type a command...",
+    "upgrade": "Upgrade",
+    "collapse": "Collapse",
+    "notifications": "Notifications"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome back, {name}",
+    "kpis": {
+      "mrr": "Monthly recurring revenue (MRR)",
+      "activeUsers": "Active users",
+      "churn": "Churn rate",
+      "conversion": "Conversion"
+    },
+    "revenueTitle": "Revenue vs. expenses",
+    "revenueLegend": { "revenue": "Revenue", "expenses": "Expenses" },
+    "signupsTitle": "New signups",
+    "distributionTitle": "Plan distribution",
+    "usageTitle": "Plan usage",
+    "usage": {
+      "projects": "Projects",
+      "members": "Members",
+      "storage": "Storage",
+      "api": "API calls"
+    },
+    "activityTitle": "Recent activity",
+    "activity": {
+      "invited": "{name} was invited to the team",
+      "upgraded": "{name} upgraded to Business",
+      "paid": "Payment from {name} confirmed",
+      "createdProject": "Project \"{name}\" created",
+      "apiKey": "API key \"{name}\" generated"
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Manage your projects and workspaces.",
+    "new": "New project",
+    "newModalTitle": "Create project",
+    "namePlaceholder": "Project name",
+    "create": "Create",
+    "empty": "No projects yet",
+    "emptyDesc": "Create your first project to get started.",
+    "members": "{count} member | {count} members",
+    "updated": "Updated",
+    "created": "Project created successfully",
+    "removed": "Project removed",
+    "statuses": {
+      "active": "Active",
+      "paused": "Paused",
+      "archived": "Archived"
+    }
+  },
+  "team": {
+    "title": "Team",
+    "subtitle": "Invite members and manage roles.",
+    "invite": "Invite member",
+    "inviteModalTitle": "Invite member",
+    "emailPlaceholder": "email@company.com",
+    "sendInvite": "Send invite",
+    "invited": "Invite sent to {email}",
+    "removed": "Member removed",
+    "columns": {
+      "member": "Member",
+      "role": "Role",
+      "status": "Status",
+      "joined": "Joined",
+      "actions": "Actions"
+    },
+    "roles": {
+      "admin": "Admin",
+      "member": "Member",
+      "viewer": "Viewer"
+    },
+    "statuses": {
+      "active": "Active",
+      "pending": "Pending"
+    }
+  },
+  "billing": {
+    "title": "Billing & Subscription",
+    "subtitle": "Manage your plan, payment and invoices.",
+    "currentPlan": "Current plan",
+    "changePlan": "Change plan",
+    "renews": "Renews on June 1, 2025",
+    "canceledNotice": "Your subscription will end at the end of the period.",
+    "resume": "Resume subscription",
+    "cancel": "Cancel subscription",
+    "cancelConfirmTitle": "Cancel subscription?",
+    "cancelConfirmDesc": "You'll keep access until the end of the paid period. Are you sure?",
+    "canceled": "Subscription canceled",
+    "resumed": "Subscription resumed",
+    "planChanged": "Plan changed to {plan}",
+    "usageTitle": "Current usage",
+    "paymentTitle": "Payment method",
+    "expires": "Expires {month}/{year}",
+    "updateCard": "Update card",
+    "cardUpdated": "Card updated",
+    "invoicesTitle": "Invoice history",
+    "invoiceColumns": {
+      "id": "Invoice",
+      "date": "Date",
+      "plan": "Plan",
+      "amount": "Amount",
+      "status": "Status",
+      "actions": "Actions"
+    },
+    "invoiceStatus": {
+      "paid": "Paid",
+      "pending": "Pending",
+      "failed": "Failed"
+    },
+    "downloadStarted": "Download started",
+    "changePlanModalTitle": "Change plan"
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Manage your account and preferences.",
+    "tabs": {
+      "profile": "Profile",
+      "account": "Account",
+      "notifications": "Notifications",
+      "apiKeys": "API keys",
+      "integrations": "Integrations"
+    },
+    "profile": {
+      "title": "Profile information",
+      "name": "Name",
+      "email": "Email",
+      "company": "Company",
+      "role": "Role",
+      "bio": "Bio",
+      "save": "Save changes",
+      "saved": "Profile updated"
+    },
+    "account": {
+      "title": "Account security",
+      "current": "Current password",
+      "new": "New password",
+      "confirm": "Confirm new password",
+      "update": "Update password",
+      "updated": "Password updated",
+      "dangerTitle": "Danger zone",
+      "dangerDesc": "Deleting your account is permanent and cannot be undone.",
+      "deleteAccount": "Delete account"
+    },
+    "notifications": {
+      "title": "Notification preferences",
+      "email": "Email notifications",
+      "emailDesc": "Receive summaries and alerts by email.",
+      "push": "Push notifications",
+      "pushDesc": "Real-time alerts in the browser.",
+      "product": "Product news",
+      "productDesc": "Learn about new features and improvements.",
+      "billing": "Billing alerts",
+      "billingDesc": "Invoices, payments and plan changes.",
+      "saved": "Preferences saved"
+    },
+    "apiKeys": {
+      "title": "API keys",
+      "desc": "Use keys to authenticate API requests.",
+      "generate": "Generate new key",
+      "namePlaceholder": "Key name",
+      "created": "Created",
+      "lastUsed": "Last used",
+      "never": "Never",
+      "revoke": "Revoke",
+      "copy": "Copy",
+      "copied": "Key copied",
+      "generated": "New key generated",
+      "revoked": "Key revoked",
+      "columns": { "name": "Name", "key": "Key", "created": "Created", "lastUsed": "Last used", "actions": "Actions" }
+    },
+    "integrations": {
+      "title": "Integrations",
+      "desc": "Connect Nimbus to your favorite tools.",
+      "connect": "Connect",
+      "disconnect": "Disconnect",
+      "connected": "Connected",
+      "connectedMsg": "{name} connected",
+      "disconnectedMsg": "{name} disconnected",
+      "apps": {
+        "slack": "Get notifications in Slack.",
+        "github": "Sync issues and pull requests.",
+        "google": "Google login and calendar.",
+        "stripe": "Sync payments and subscriptions.",
+        "zapier": "Connect with 5,000+ apps."
+      }
+    }
+  },
+  "onboarding": {
+    "title": "Set up your workspace",
+    "skip": "Skip for now",
+    "next": "Continue",
+    "back": "Back",
+    "finish": "Finish",
+    "finished": "All set! Welcome to Nimbus.",
+    "step": "Step {current} of {total}",
+    "steps": {
+      "profile": "Profile",
+      "workspace": "Workspace",
+      "team": "Team",
+      "plan": "Plan"
+    },
+    "profile": {
+      "title": "Tell us about you",
+      "desc": "Let's personalize your experience.",
+      "name": "Your name",
+      "role": "Your role"
+    },
+    "workspace": {
+      "title": "Create your workspace",
+      "desc": "This is where your team will collaborate.",
+      "name": "Workspace name",
+      "size": "Team size"
+    },
+    "teamStep": {
+      "title": "Invite your team",
+      "desc": "Add colleagues by email (optional).",
+      "placeholder": "email@company.com",
+      "add": "Add"
+    },
+    "plan": {
+      "title": "Choose a plan",
+      "desc": "You can change it anytime."
+    }
+  },
+  "notFound": {
+    "title": "Page not found",
+    "desc": "The page you're looking for doesn't exist or has been moved.",
+    "home": "Back home",
+    "dashboard": "Go to dashboard"
+  },
+  "testimonials": {
+    "items": {
+      "t1": "Nimbus transformed how our team works. The dashboard gives us total clarity.",
+      "t2": "We migrated in a day and never looked back. The API is simply excellent.",
+      "t3": "Impeccable support and a product that truly understands the daily life of large teams."
+    }
+  },
+  "cookie": {
+    "title": "We use cookies",
+    "desc": "We use cookies to improve your experience and analyze traffic.",
+    "policy": "Privacy Policy",
+    "accept": "Accept",
+    "decline": "Decline"
+  }
+}

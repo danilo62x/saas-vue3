@@ -1,0 +1,535 @@
+{
+  "brand": "Nimbus",
+  "common": {
+    "search": "Buscar",
+    "noResults": "Nenhum resultado encontrado",
+    "previous": "Anterior",
+    "next": "Próximo",
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "delete": "Excluir",
+    "edit": "Editar",
+    "close": "Fechar",
+    "confirm": "Confirmar",
+    "loading": "Carregando...",
+    "copy": "Copiar",
+    "copied": "Copiado!",
+    "download": "Baixar",
+    "theme": "Tema",
+    "language": "Idioma",
+    "back": "Voltar",
+    "viewAll": "Ver tudo",
+    "comingSoon": "Em breve"
+  },
+  "nav": {
+    "features": "Recursos",
+    "pricing": "Preços",
+    "about": "Sobre",
+    "contact": "Contato",
+    "login": "Entrar",
+    "getStarted": "Começar grátis",
+    "dashboard": "Painel"
+  },
+  "marketing": {
+    "hero": {
+      "badge": "Novo: integrações com IA",
+      "title": "A plataforma que faz sua equipe crescer mais rápido",
+      "subtitle": "Gerencie projetos, equipe e cobrança em um só lugar. Analytics em tempo real, automações e integrações para escalar sem fricção.",
+      "ctaPrimary": "Começar grátis",
+      "ctaSecondary": "Ver demonstração",
+      "noCard": "Sem cartão de crédito • Cancele quando quiser"
+    },
+    "clients": "Empresas que confiam na Nimbus",
+    "features": {
+      "title": "Tudo que você precisa para escalar",
+      "subtitle": "Recursos poderosos pensados para times modernos.",
+      "items": {
+        "analytics": { "title": "Analytics em tempo real", "desc": "Acompanhe MRR, churn e engajamento com dashboards ao vivo." },
+        "team": { "title": "Colaboração de equipe", "desc": "Convide membros, defina papéis e trabalhe junto sem atrito." },
+        "automation": { "title": "Automações", "desc": "Crie fluxos que economizam horas do seu time toda semana." },
+        "security": { "title": "Segurança enterprise", "desc": "SSO, logs de auditoria e criptografia de ponta a ponta." },
+        "api": { "title": "API & integrações", "desc": "Conecte suas ferramentas favoritas com nossa API robusta." },
+        "billing": { "title": "Cobrança flexível", "desc": "Planos mensais ou anuais, faturas e gestão de assinatura." }
+      }
+    },
+    "how": {
+      "title": "Como funciona",
+      "subtitle": "Comece em três passos simples.",
+      "steps": {
+        "s1": { "title": "Crie sua conta", "desc": "Cadastre-se grátis em menos de um minuto." },
+        "s2": { "title": "Configure seu workspace", "desc": "Convide a equipe e conecte suas integrações." },
+        "s3": { "title": "Acompanhe e escale", "desc": "Use os dashboards para crescer com confiança." }
+      }
+    },
+    "stats": {
+      "customers": "Clientes ativos",
+      "uptime": "Disponibilidade",
+      "rating": "Avaliação média",
+      "countries": "Países"
+    },
+    "testimonialsTitle": "Amado por times do mundo todo",
+    "pricingPreview": {
+      "title": "Planos para cada estágio",
+      "subtitle": "Comece grátis e cresça conforme sua necessidade.",
+      "viewFull": "Ver todos os planos"
+    },
+    "faqTitle": "Perguntas frequentes",
+    "faq": {
+      "q1": "Posso cancelar a qualquer momento?",
+      "a1": "Sim. Você pode cancelar sua assinatura quando quiser, sem multas.",
+      "q2": "Existe período de teste?",
+      "a2": "O plano Free é gratuito para sempre. Planos pagos têm 14 dias de teste.",
+      "q3": "Como funciona a cobrança?",
+      "a3": "Você é cobrado mensal ou anualmente. O anual tem desconto significativo.",
+      "q4": "Vocês oferecem suporte?",
+      "a4": "Sim, do suporte da comunidade no Free ao gerente dedicado no Enterprise."
+    },
+    "cta": {
+      "title": "Pronto para começar?",
+      "subtitle": "Junte-se a milhares de equipes que já crescem com a Nimbus.",
+      "button": "Criar conta grátis"
+    },
+    "footer": {
+      "tagline": "A plataforma all-in-one para equipes que querem crescer rápido.",
+      "product": "Produto",
+      "company": "Empresa",
+      "resources": "Recursos",
+      "legal": "Legal",
+      "features": "Recursos",
+      "pricing": "Preços",
+      "integrations": "Integrações",
+      "changelog": "Changelog",
+      "about": "Sobre",
+      "careers": "Carreiras",
+      "blog": "Blog",
+      "contact": "Contato",
+      "docs": "Documentação",
+      "help": "Central de ajuda",
+      "status": "Status",
+      "api": "Referência da API",
+      "privacy": "Privacidade",
+      "terms": "Termos",
+      "security": "Segurança",
+      "newsletterTitle": "Receba novidades",
+      "newsletterDesc": "Dicas de produto e atualizações, sem spam.",
+      "newsletterPlaceholder": "seu@email.com",
+      "newsletterCta": "Inscrever",
+      "newsletterSuccess": "Inscrição confirmada! Obrigado.",
+      "rights": "© 2025 Nimbus. Todos os direitos reservados."
+    }
+  },
+  "featuresPage": {
+    "title": "Recursos que fazem a diferença",
+    "subtitle": "Conheça em detalhe tudo que a Nimbus oferece.",
+    "sections": {
+      "analytics": { "title": "Analytics poderoso", "desc": "Dashboards em tempo real com MRR, churn, coortes e funis. Exporte relatórios e tome decisões baseadas em dados.", "points": ["Métricas ao vivo", "Relatórios personalizados", "Alertas inteligentes"] },
+      "collaboration": { "title": "Colaboração sem limites", "desc": "Convide quantos membros precisar, organize por papéis e trabalhe em tempo real com sua equipe.", "points": ["Papéis e permissões", "Comentários e menções", "Histórico de atividades"] },
+      "automation": { "title": "Automação inteligente", "desc": "Crie fluxos de trabalho que rodam sozinhos e libere sua equipe para o que importa.", "points": ["Gatilhos e ações", "Modelos prontos", "Integração com webhooks"] },
+      "security": { "title": "Segurança de nível enterprise", "desc": "Proteja seus dados com SSO, autenticação em dois fatores e logs de auditoria completos.", "points": ["SSO / SAML", "2FA", "Logs de auditoria"] }
+    }
+  },
+  "pricingPage": {
+    "title": "Preços simples e transparentes",
+    "subtitle": "Escolha o plano ideal. Mude ou cancele quando quiser.",
+    "monthly": "Mensal",
+    "yearly": "Anual",
+    "save": "economize 20%",
+    "perMonth": "/mês",
+    "billedYearly": "cobrado anualmente",
+    "custom": "Sob consulta",
+    "compareTitle": "Compare os planos",
+    "compare": {
+      "projects": "Projetos",
+      "members": "Membros da equipe",
+      "storage": "Armazenamento",
+      "api": "Chamadas de API",
+      "support": "Suporte",
+      "analytics": "Analytics avançado",
+      "sso": "SSO / SAML",
+      "unlimited": "Ilimitado"
+    },
+    "faqTitle": "Dúvidas sobre cobrança",
+    "faq": {
+      "q1": "Posso mudar de plano depois?",
+      "a1": "Sim, faça upgrade ou downgrade a qualquer momento — o valor é ajustado proporcionalmente.",
+      "q2": "Quais formas de pagamento?",
+      "a2": "Aceitamos os principais cartões de crédito e, no Enterprise, boleto e transferência.",
+      "q3": "O que acontece se eu exceder os limites?",
+      "a3": "Avisamos com antecedência e você pode fazer upgrade sem perder dados."
+    }
+  },
+  "plans": {
+    "free": "Free",
+    "pro": "Pro",
+    "business": "Business",
+    "enterprise": "Enterprise",
+    "mostPopular": "Mais popular",
+    "current": "Plano atual",
+    "choose": "Escolher",
+    "contactSales": "Falar com vendas",
+    "startFree": "Começar grátis",
+    "descriptions": {
+      "free": "Para começar e experimentar.",
+      "pro": "Para times em crescimento.",
+      "business": "Para empresas em escala.",
+      "enterprise": "Para grandes organizações."
+    },
+    "features": {
+      "projects3": "Até 3 projetos",
+      "projects25": "Até 25 projetos",
+      "unlimitedProjects": "Projetos ilimitados",
+      "members2": "2 membros",
+      "members10": "10 membros",
+      "members50": "50 membros",
+      "storage1": "1 GB de armazenamento",
+      "storage50": "50 GB de armazenamento",
+      "storage500": "500 GB de armazenamento",
+      "communitySupport": "Suporte da comunidade",
+      "prioritySupport": "Suporte prioritário",
+      "basicAnalytics": "Analytics básico",
+      "advancedAnalytics": "Analytics avançado",
+      "apiAccess": "Acesso à API",
+      "sso": "SSO / SAML",
+      "auditLog": "Logs de auditoria",
+      "unlimitedEverything": "Tudo ilimitado",
+      "dedicatedManager": "Gerente dedicado",
+      "sla": "SLA garantido",
+      "customIntegrations": "Integrações personalizadas",
+      "onPremise": "Opção on-premise"
+    }
+  },
+  "about": {
+    "title": "Construindo o futuro do trabalho",
+    "subtitle": "Nascemos para ajudar equipes a fazer mais com menos.",
+    "missionTitle": "Nossa missão",
+    "mission": "Acreditamos que toda equipe merece ferramentas poderosas e simples. Por isso construímos a Nimbus: para eliminar a complexidade e devolver tempo ao que realmente importa.",
+    "valuesTitle": "Nossos valores",
+    "values": {
+      "v1": { "title": "Foco no cliente", "desc": "Cada decisão começa com a pergunta: isso ajuda nossos clientes?" },
+      "v2": { "title": "Transparência", "desc": "Comunicação aberta, preços claros e sem letras miúdas." },
+      "v3": { "title": "Excelência", "desc": "Buscamos qualidade em cada detalhe do produto." }
+    },
+    "teamTitle": "Conheça o time",
+    "statsTitle": "Em números"
+  },
+  "contact": {
+    "title": "Fale com a gente",
+    "subtitle": "Tem dúvidas? Nossa equipe responde em até 24h.",
+    "form": {
+      "name": "Nome",
+      "email": "E-mail",
+      "subject": "Assunto",
+      "message": "Mensagem",
+      "send": "Enviar mensagem",
+      "sending": "Enviando...",
+      "success": "Mensagem enviada! Retornaremos em breve.",
+      "errors": {
+        "name": "Informe seu nome",
+        "email": "E-mail inválido",
+        "subject": "Informe um assunto",
+        "message": "Mensagem muito curta"
+      }
+    },
+    "info": {
+      "email": "E-mail",
+      "phone": "Telefone",
+      "address": "Endereço",
+      "addressValue": "Av. Paulista, 1000 — São Paulo, SP"
+    }
+  },
+  "auth": {
+    "loginTitle": "Bem-vindo de volta",
+    "loginSubtitle": "Entre para acessar seu painel.",
+    "registerTitle": "Crie sua conta",
+    "registerSubtitle": "Comece grátis em segundos.",
+    "forgotTitle": "Recuperar senha",
+    "forgotSubtitle": "Enviaremos um link de redefinição para seu e-mail.",
+    "name": "Nome completo",
+    "email": "E-mail",
+    "password": "Senha",
+    "confirmPassword": "Confirmar senha",
+    "company": "Empresa",
+    "remember": "Lembrar de mim",
+    "forgot": "Esqueceu a senha?",
+    "loginCta": "Entrar",
+    "registerCta": "Criar conta",
+    "forgotCta": "Enviar link",
+    "loggingIn": "Entrando...",
+    "registering": "Criando...",
+    "sending": "Enviando...",
+    "loginSuccess": "Login realizado com sucesso!",
+    "registerSuccess": "Conta criada! Vamos configurar seu workspace.",
+    "forgotSuccess": "Link enviado! Verifique seu e-mail.",
+    "loginError": "Credenciais inválidas. Tente novamente.",
+    "noAccount": "Não tem conta?",
+    "hasAccount": "Já tem conta?",
+    "backToLogin": "Voltar para o login",
+    "demoTitle": "Conta demo",
+    "demoHint": "Qualquer e-mail/senha funciona.",
+    "agree": "Concordo com os Termos e a Política de Privacidade",
+    "errors": {
+      "name": "Informe seu nome",
+      "email": "E-mail inválido",
+      "password": "Mínimo de 6 caracteres",
+      "confirm": "As senhas não conferem",
+      "agree": "Você precisa aceitar os termos"
+    }
+  },
+  "appNav": {
+    "main": "Principal",
+    "workspace": "Workspace",
+    "account": "Conta",
+    "dashboard": "Painel",
+    "projects": "Projetos",
+    "team": "Equipe",
+    "billing": "Cobrança",
+    "settings": "Configurações",
+    "logout": "Sair",
+    "searchPlaceholder": "Buscar ou digitar comando...",
+    "upgrade": "Fazer upgrade",
+    "collapse": "Recolher",
+    "notifications": "Notificações"
+  },
+  "dashboard": {
+    "title": "Painel",
+    "welcome": "Bem-vindo de volta, {name}",
+    "kpis": {
+      "mrr": "Receita recorrente (MRR)",
+      "activeUsers": "Usuários ativos",
+      "churn": "Taxa de churn",
+      "conversion": "Conversão"
+    },
+    "revenueTitle": "Receita vs. despesas",
+    "revenueLegend": { "revenue": "Receita", "expenses": "Despesas" },
+    "signupsTitle": "Novos cadastros",
+    "distributionTitle": "Distribuição por plano",
+    "usageTitle": "Uso do plano",
+    "usage": {
+      "projects": "Projetos",
+      "members": "Membros",
+      "storage": "Armazenamento",
+      "api": "Chamadas de API"
+    },
+    "activityTitle": "Atividade recente",
+    "activity": {
+      "invited": "{name} foi convidado para a equipe",
+      "upgraded": "{name} fez upgrade para Business",
+      "paid": "Pagamento de {name} confirmado",
+      "createdProject": "Projeto \"{name}\" criado",
+      "apiKey": "Chave de API \"{name}\" gerada"
+    }
+  },
+  "projects": {
+    "title": "Projetos",
+    "subtitle": "Gerencie seus projetos e workspaces.",
+    "new": "Novo projeto",
+    "newModalTitle": "Criar projeto",
+    "namePlaceholder": "Nome do projeto",
+    "create": "Criar",
+    "empty": "Nenhum projeto ainda",
+    "emptyDesc": "Crie seu primeiro projeto para começar.",
+    "members": "{count} membro | {count} membros",
+    "updated": "Atualizado",
+    "created": "Projeto criado com sucesso",
+    "removed": "Projeto removido",
+    "statuses": {
+      "active": "Ativo",
+      "paused": "Pausado",
+      "archived": "Arquivado"
+    }
+  },
+  "team": {
+    "title": "Equipe",
+    "subtitle": "Convide membros e gerencie papéis.",
+    "invite": "Convidar membro",
+    "inviteModalTitle": "Convidar membro",
+    "emailPlaceholder": "email@empresa.com",
+    "sendInvite": "Enviar convite",
+    "invited": "Convite enviado para {email}",
+    "removed": "Membro removido",
+    "columns": {
+      "member": "Membro",
+      "role": "Papel",
+      "status": "Status",
+      "joined": "Entrou em",
+      "actions": "Ações"
+    },
+    "roles": {
+      "admin": "Administrador",
+      "member": "Membro",
+      "viewer": "Leitor"
+    },
+    "statuses": {
+      "active": "Ativo",
+      "pending": "Pendente"
+    }
+  },
+  "billing": {
+    "title": "Cobrança & Assinatura",
+    "subtitle": "Gerencie seu plano, pagamento e faturas.",
+    "currentPlan": "Plano atual",
+    "changePlan": "Trocar de plano",
+    "renews": "Renova em 1 de junho de 2025",
+    "canceledNotice": "Sua assinatura será encerrada no fim do período.",
+    "resume": "Reativar assinatura",
+    "cancel": "Cancelar assinatura",
+    "cancelConfirmTitle": "Cancelar assinatura?",
+    "cancelConfirmDesc": "Você manterá acesso até o fim do período pago. Tem certeza?",
+    "canceled": "Assinatura cancelada",
+    "resumed": "Assinatura reativada",
+    "planChanged": "Plano alterado para {plan}",
+    "usageTitle": "Uso atual",
+    "paymentTitle": "Método de pagamento",
+    "expires": "Expira em {month}/{year}",
+    "updateCard": "Atualizar cartão",
+    "cardUpdated": "Cartão atualizado",
+    "invoicesTitle": "Histórico de faturas",
+    "invoiceColumns": {
+      "id": "Fatura",
+      "date": "Data",
+      "plan": "Plano",
+      "amount": "Valor",
+      "status": "Status",
+      "actions": "Ações"
+    },
+    "invoiceStatus": {
+      "paid": "Pago",
+      "pending": "Pendente",
+      "failed": "Falhou"
+    },
+    "downloadStarted": "Download iniciado",
+    "changePlanModalTitle": "Trocar de plano"
+  },
+  "settings": {
+    "title": "Configurações",
+    "subtitle": "Gerencie sua conta e preferências.",
+    "tabs": {
+      "profile": "Perfil",
+      "account": "Conta",
+      "notifications": "Notificações",
+      "apiKeys": "Chaves de API",
+      "integrations": "Integrações"
+    },
+    "profile": {
+      "title": "Informações do perfil",
+      "name": "Nome",
+      "email": "E-mail",
+      "company": "Empresa",
+      "role": "Cargo",
+      "bio": "Bio",
+      "save": "Salvar alterações",
+      "saved": "Perfil atualizado"
+    },
+    "account": {
+      "title": "Segurança da conta",
+      "current": "Senha atual",
+      "new": "Nova senha",
+      "confirm": "Confirmar nova senha",
+      "update": "Atualizar senha",
+      "updated": "Senha atualizada",
+      "dangerTitle": "Zona de perigo",
+      "dangerDesc": "Excluir sua conta é permanente e não pode ser desfeito.",
+      "deleteAccount": "Excluir conta"
+    },
+    "notifications": {
+      "title": "Preferências de notificação",
+      "email": "Notificações por e-mail",
+      "emailDesc": "Receba resumos e alertas no seu e-mail.",
+      "push": "Notificações push",
+      "pushDesc": "Alertas em tempo real no navegador.",
+      "product": "Novidades do produto",
+      "productDesc": "Saiba sobre novos recursos e melhorias.",
+      "billing": "Avisos de cobrança",
+      "billingDesc": "Faturas, pagamentos e mudanças de plano.",
+      "saved": "Preferências salvas"
+    },
+    "apiKeys": {
+      "title": "Chaves de API",
+      "desc": "Use chaves para autenticar requisições à API.",
+      "generate": "Gerar nova chave",
+      "namePlaceholder": "Nome da chave",
+      "created": "Criada em",
+      "lastUsed": "Último uso",
+      "never": "Nunca",
+      "revoke": "Revogar",
+      "copy": "Copiar",
+      "copied": "Chave copiada",
+      "generated": "Nova chave gerada",
+      "revoked": "Chave revogada",
+      "columns": { "name": "Nome", "key": "Chave", "created": "Criada", "lastUsed": "Último uso", "actions": "Ações" }
+    },
+    "integrations": {
+      "title": "Integrações",
+      "desc": "Conecte a Nimbus às suas ferramentas favoritas.",
+      "connect": "Conectar",
+      "disconnect": "Desconectar",
+      "connected": "Conectado",
+      "connectedMsg": "{name} conectado",
+      "disconnectedMsg": "{name} desconectado",
+      "apps": {
+        "slack": "Receba notificações no Slack.",
+        "github": "Sincronize issues e pull requests.",
+        "google": "Login e calendário do Google.",
+        "stripe": "Sincronize pagamentos e assinaturas.",
+        "zapier": "Conecte com mais de 5.000 apps."
+      }
+    }
+  },
+  "onboarding": {
+    "title": "Configurar seu workspace",
+    "skip": "Pular por agora",
+    "next": "Continuar",
+    "back": "Voltar",
+    "finish": "Concluir",
+    "finished": "Tudo pronto! Bem-vindo à Nimbus.",
+    "step": "Passo {current} de {total}",
+    "steps": {
+      "profile": "Perfil",
+      "workspace": "Workspace",
+      "team": "Equipe",
+      "plan": "Plano"
+    },
+    "profile": {
+      "title": "Conte sobre você",
+      "desc": "Vamos personalizar sua experiência.",
+      "name": "Seu nome",
+      "role": "Seu cargo"
+    },
+    "workspace": {
+      "title": "Crie seu workspace",
+      "desc": "É onde sua equipe vai colaborar.",
+      "name": "Nome do workspace",
+      "size": "Tamanho da equipe"
+    },
+    "teamStep": {
+      "title": "Convide sua equipe",
+      "desc": "Adicione colegas por e-mail (opcional).",
+      "placeholder": "email@empresa.com",
+      "add": "Adicionar"
+    },
+    "plan": {
+      "title": "Escolha um plano",
+      "desc": "Você pode mudar quando quiser."
+    }
+  },
+  "notFound": {
+    "title": "Página não encontrada",
+    "desc": "A página que você procura não existe ou foi movida.",
+    "home": "Voltar ao início",
+    "dashboard": "Ir ao painel"
+  },
+  "testimonials": {
+    "items": {
+      "t1": "A Nimbus transformou como nossa equipe trabalha. O dashboard nos dá clareza total.",
+      "t2": "Migramos em um dia e nunca olhamos para trás. A API é simplesmente excelente.",
+      "t3": "Suporte impecável e um produto que realmente entende o dia a dia de times grandes."
+    }
+  },
+  "cookie": {
+    "title": "Usamos cookies",
+    "desc": "Utilizamos cookies para melhorar sua experiência e analisar o tráfego.",
+    "policy": "Política de Privacidade",
+    "accept": "Aceitar",
+    "decline": "Recusar"
+  }
+}
