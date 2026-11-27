@@ -7,8 +7,6 @@
 
 A complete SaaS product front end built with Vue 3, TypeScript, Vite 6 and Tailwind CSS v4. It has the two halves a SaaS usually needs: a public marketing site (landing, features, pricing with a monthly/annual toggle, about, contact) and an auth-guarded application (dashboard with charts, projects, team, billing and settings). All content is mock data, so the project runs without a backend.
 
-Live preview: https://template.dev.br/preview/saas-vue3/
-
 ## Views included
 
 15 routed views, split between the marketing site and the app.
@@ -111,11 +109,14 @@ Interface strings live in `src/i18n/locales/` (pt-BR, en, es). The language can 
 
 ## Other stacks
 
-This SaaS template is part of a catalog where each vertical exists in several stacks (HTML, React, Vue 3, Angular, Laravel). The other SaaS versions and the other verticals are listed at https://template.dev.br.
+This template also exists in 4 other stacks, with the same screens and visual identity. All of them are free:
 
-## Support this project
+- React 19: https://github.com/danilo62x/saas-react
+- Angular 19: https://github.com/danilo62x/saas-angular
+- Laravel 11: https://github.com/danilo62x/saas-laravel
+- Static HTML: https://github.com/danilo62x/saas-html
 
-This template is free to use. If it saved you some time, you can support the project with a donation at https://template.dev.br/doar?template=saas-vue3.
+More free templates (admin dashboards, vertical systems and Flutter apps): https://github.com/danilo62x?tab=repositories
 
 ## License
 
